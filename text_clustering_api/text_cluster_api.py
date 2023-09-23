@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 13 12:02:27 2018
+Created on  October 13 12:02:27 2020
 
-@author: vivekkalyanarangan
+@author: Ighodaro Emwinghare
 """
 from stemming.porter2 import stem
 import numpy as np
